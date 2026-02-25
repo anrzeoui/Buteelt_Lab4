@@ -48,7 +48,7 @@ public class IntQueueTest {
     public void testPeekNoEmptyQueue() {
         mQueue.enqueue(5);
         assertEquals(Integer.valueOf(5), mQueue.peek());
-        assertEquals(1, mQueue.size()); // peek хэмжээг өөрчлөхгүй
+        assertEquals(1, mQueue.size());  
     }
 
     @Test
