@@ -9,6 +9,7 @@ package edu.cmu.cs.cs214.rec02;
  * @author Alex Lockwood
  */
 public interface IntQueue {
+    //Actoins shalgah mur nemelteer bichiv.
 
     /**
      * Remove all the elements from the queue.
